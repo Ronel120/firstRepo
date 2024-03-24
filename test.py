@@ -1,3 +1,3 @@
 print("LOL")
 print("WQEQWEQWWEQWEQWEWEWE")
-print("WE)
+print("WEW")
