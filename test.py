@@ -1,1 +1,1 @@
-print("WQEQWEQWWEQWEQWEWEWE")
+print("LOL")
