@@ -1,10 +1,12 @@
 hello, everyone!
 
-# instructions
+## instructions
 clone this repository.
 
-# create virtual environment.
+create virtual environment.
+
 `python -m venv env`
 
-# install the packages
-`pip install -r requirements.txt
+install the packages
+
+`pip install -r requirements.txt`
